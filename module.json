@@ -1,0 +1,57 @@
+{
+    "name": "pf2e-dots-fan-errata",
+    "title": "Pf2e Dot's Fan Errata",
+    "description": "Inofficial errata for my home games. Feel free to use them too.",
+    "packs": [
+        {
+            "name": "dots-fan-errata-items",
+            "label": "Pf2e Dots Fan Errata Items",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dots-fan-errata-items.db",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "pf2e-dots-fan-errata"
+        },
+        {
+            "name": "dots-fan-errata-journals",
+            "label": "Pf2e Dots Fan Errata Journals",
+            "type": "JournalEntry",
+            "system": "pf2e",
+            "path": "packs/dots-fan-errata-journals.db",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "pf2e-dots-fan-errata"
+        }
+    ],
+    "url": "https://github.com/dotadd/pf2e-dots-fan-errata",
+    "manifest": "https://raw.githubusercontent.com/dotadd/pf2e-dots-fan-errata/main/module.json",
+    "download": "https://github.com/dotadd/pf2e-dots-fan-errata/archive/refs/heads/main.zip",
+    "id": "pf2e-dots-fan-errata",
+    "authors": [
+        {
+            "name": "dotadd"
+        }
+    ],
+    "compatibility": {
+        "minimum": 12.331,
+        "verified": 12.331
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "pf2e",
+                "type": "system",
+                "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+                "compatibility": {
+                    "minimum": "6.8.5"
+                }
+            }
+        ]
+    },
+    "version": "1.0"
+}
