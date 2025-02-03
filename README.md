@@ -18,7 +18,7 @@ The below should cover everything. If I am missing some license or attribution, 
 
 #### OGL License
 
-References to the Magus, Summoner, Psychic and Thaumaturge classes as well as the Shadow Signet item published under [OGL v1.0a](./OpenGameLicense.md).
+References to the Kineticist, Magus, Summoner, Psychic and Thaumaturge classes as well as the Shadow Signet, Gate Attenuator and Phantasmal Doorknob items published under [OGL v1.0a](./OpenGameLicense.md).
 
 #### Attribution
 
@@ -26,6 +26,7 @@ These are based on the following:
 - Pathfinder Second Edition Secrets of Magic © Paizo Inc 2021
 - Pathfinder Second Edition Dark Archive © Paizo Inc 2022
 - Pathfinder Second Edition Treasure Vault © Paizo Inc 2023
+- Pathfinder Second Edition Rage of Elements © Paizo Inc 2023
 
 ### Orc License
 
@@ -35,7 +36,7 @@ All other parts are licensed under the ORC License held in the Library of Congre
 
 #### Attribution
 
-They are is based on the following Licensed Material:
+They are based on the following Licensed Material:
 - Pathfinder Second Edition Player Core © Paizo Inc 2023
 - Pathfinder Second Edition Player Core 2 © Paizo Inc 2024
 - Pathfinder Second Edition War of Immortals © Paizo Inc 2024
