@@ -1,10 +1,10 @@
 # PF2e Dot's Fan Errata
 
-This module contains my personal errata and house rules for Pathfinder Second Edition.
+This module contains my personal errata and house rules for Pathfinder Second Edition. If they sound good to you, feel free to use them!
 
 ## How To
 
-Go to the journals compendium, open the only entry and read from there.
+Go to the journals compendium, open the entries there (one for ORC content, the other for OGL content) and read from there.
 
 ## Feedback
 
@@ -18,14 +18,13 @@ The below should cover everything. If I am missing some license or attribution, 
 
 #### OGL License
 
-References to the Kineticist, Magus, Summoner, Psychic and Thaumaturge classes as well as the Shadow Signet, Gate Attenuator and Phantasmal Doorknob items published under [OGL v1.0a](./OpenGameLicense.md).
+References to the Kineticist, Magus, Summoner, Psychic and Thaumaturge classes as well as the Psychic Archetype published under [OGL v1.0a](./OpenGameLicense.md).
 
 #### Attribution
 
 These are based on the following:
 - Pathfinder Second Edition Secrets of Magic © Paizo Inc 2021
 - Pathfinder Second Edition Dark Archive © Paizo Inc 2022
-- Pathfinder Second Edition Treasure Vault © Paizo Inc 2023
 - Pathfinder Second Edition Rage of Elements © Paizo Inc 2023
 
 ### Orc License
@@ -38,9 +37,11 @@ All other parts are licensed under the ORC License held in the Library of Congre
 
 They are based on the following Licensed Material:
 - Pathfinder Second Edition Player Core © Paizo Inc 2023
+- Pathfinder Second Edition GM Core © Paizo Inc 2023
 - Pathfinder Second Edition Player Core 2 © Paizo Inc 2024
 - Pathfinder Second Edition War of Immortals © Paizo Inc 2024
 - Pathfinder Second Edition Guns and Gears Remastered © Paizo Inc 2025
+- Pathfinder Second Edition Treasure Vault Remastered © Paizo Inc 2025
 
 #### Expressly Designated Licensed Material
 
