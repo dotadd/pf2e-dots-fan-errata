@@ -39,7 +39,7 @@
     ],
     "compatibility": {
         "minimum": 13.345,
-        "verified": 13.345
+        "verified": 13.346
     },
     "relationships": {
         "systems": [
@@ -53,5 +53,5 @@
             }
         ]
     },
-    "version": "1.0"
+    "version": "1.1"
 }
