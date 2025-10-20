@@ -44,8 +44,8 @@
         }
     ],
     "compatibility": {
-        "minimum": 13.350,
-        "verified": 13.350
+        "minimum": "13.350",
+        "verified": "13.350"
     },
     "relationships": {
         "systems": [
@@ -54,10 +54,28 @@
                 "type": "system",
                 "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
                 "compatibility": {
-                    "minimum": "7.5.2"
+                    "minimum": "7.6.3"
                 }
             }
         ]
     },
-    "version": "1.2"
+    "flags": {
+        "pf2e-dots-fan-errata": {
+            "pf2e-homebrew": {
+                "equipmentTraits": {
+                    "spellfocus": {
+                        "label": "Spell Focus",
+                        "description": "<p>An item that enhances your spell attacks.</p><p>You can only invest one spell focus per day. You cannot invest a spell focus of a level higher than yours.</p>"
+                    }
+                },
+                "spellTraits": {
+                    "practiced": {
+                        "label": "Practiced",
+                        "description": "<p>This spell gets easier the more you use it.</p><p>If this spell is at least two ranks below the highest rank spell you can cast, reduce the actions it takes to cast by 1. This applies only to the first Practiced spell you cast each round.</p>"
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.3"
 }
