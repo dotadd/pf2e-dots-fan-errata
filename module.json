@@ -73,9 +73,15 @@
                         "label": "Practiced",
                         "description": "<p>This spell gets easier the more you use it.</p><p>If this spell is at least two ranks below the highest rank spell you can cast, reduce the actions it takes to cast by 1. This applies only to the first Practiced spell you cast each round.</p>"
                     }
+                },
+                "featTraits": {
+                    "covenant": {
+                        "label": "Covenant",
+                        "description": "<p>Covenant feats are a type of story-based bonus feats that represent allegiance to a faith, an organization or a set of ideals or practices.</p><p>Covenant feats have three ranks: Initiate, Devotee and Paragon. Each rank comes with edicts and/or anathema that you must uphold to retain the benefits of that rank. Breaking them can downgrade the rank of the feat or even remove it completely.</p>"
+                    }
                 }
             }
         }
     },
-    "version": "1.8"
+    "version": "1.9"
 }
