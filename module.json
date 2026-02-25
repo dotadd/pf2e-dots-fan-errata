@@ -44,8 +44,8 @@
         }
     ],
     "compatibility": {
-        "minimum": "13.350",
-        "verified": "13.350"
+        "minimum": "13.351",
+        "verified": "13.351"
     },
     "relationships": {
         "systems": [
@@ -54,7 +54,7 @@
                 "type": "system",
                 "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
                 "compatibility": {
-                    "minimum": "7.6.3"
+                    "minimum": "7.10.1"
                 }
             }
         ]
@@ -72,6 +72,10 @@
                     "practiced": {
                         "label": "Practiced",
                         "description": "<p>This spell gets easier the more you use it.</p><p>If this spell is at least two ranks below the highest rank spell you can cast, reduce the actions it takes to cast by 1. This applies only to the first Practiced spell you cast each round.</p>"
+                    },
+                    "extract": {
+                        "label": "Extract",
+                        "description": "<p>This spell can draw out the power from an alchemical consumable.</p><p>The spell gains its Extract effect if you expend a worn or held alchemical consumable that fulfills the requirements specified in the spell's Extract entry.</p>"
                     }
                 },
                 "featTraits": {
@@ -83,5 +87,5 @@
             }
         }
     },
-    "version": "1.9"
+    "version": "1.11"
 }

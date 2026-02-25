@@ -24,7 +24,6 @@ References to the Kineticist, Magus, Summoner, Psychic and Thaumaturge classes a
 
 These are based on the following:
 - Pathfinder Second Edition Secrets of Magic © Paizo Inc 2021
-- Pathfinder Second Edition Dark Archive © Paizo Inc 2022
 - Pathfinder Second Edition Rage of Elements © Paizo Inc 2023
 
 ### Orc License
@@ -38,10 +37,15 @@ All other parts are licensed under the ORC License held in the Library of Congre
 They are based on the following Licensed Material:
 - Pathfinder Second Edition Player Core © Paizo Inc 2023
 - Pathfinder Second Edition GM Core © Paizo Inc 2023
+- Pathfinder Second Edition Monster Core © Paizo Inc 2024
 - Pathfinder Second Edition Player Core 2 © Paizo Inc 2024
 - Pathfinder Second Edition War of Immortals © Paizo Inc 2024
 - Pathfinder Second Edition Guns and Gears Remastered © Paizo Inc 2025
+- Pathfinder Second Edition NPC Core © Paizo Inc 2025
 - Pathfinder Second Edition Treasure Vault Remastered © Paizo Inc 2025
+- Pathfinder Second Edition Battlecry! © Paizo Inc 2025
+- Pathfinder Second Edition Monster Core 2 © Paizo Inc 2025
+- Pathfinder Second Edition Dark Archive Remastered © Paizo Inc 2026
 
 #### Expressly Designated Licensed Material
 
