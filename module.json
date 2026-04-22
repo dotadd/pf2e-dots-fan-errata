@@ -11,8 +11,7 @@
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
-            },
-            "module": "pf2e-dots-fan-errata"
+            }
         },
         {
             "name": "dots-fan-errata-journals",
@@ -23,8 +22,7 @@
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
-            },
-            "module": "pf2e-dots-fan-errata"
+            }
         }
     ],
     "packFolders": [
@@ -54,7 +52,7 @@
                 "type": "system",
                 "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
                 "compatibility": {
-                    "minimum": "7.11.2"
+                    "minimum": "7.12.2"
                 }
             }
         ]
@@ -81,11 +79,11 @@
                 "featTraits": {
                     "covenant": {
                         "label": "Covenant",
-                        "description": "<p>Covenant feats are a type of story-based bonus feats that represent allegiance to a faith, an organization or a set of ideals or practices.</p><p>Covenant feats have three ranks: Initiate, Devotee and Paragon. Each rank comes with edicts and/or anathema that you must uphold to retain the benefits of that rank. Breaking them can downgrade the rank of the feat or even remove it completely.</p>"
+                        "description": "<p>Covenant feats are a type of story-based bonus feats that represent allegiance to a faith, an organization or a set of ideals or practices.</p><p>Covenant feats have three ranks: Initiate, Devotee and Paragon. Rank advancements are formulated intentionally vaguely, but should each constitute a significant moment in the story.</p>"
                     }
                 }
             }
         }
     },
-    "version": "1.12"
+    "version": "1.13"
 }
