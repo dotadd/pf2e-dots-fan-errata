@@ -5,3 +5,7 @@
 2026/05/14-20:51:57.448824 7faf89620b38 Delete type=3 #439
 2026/05/14-20:51:57.448863 7faf89620b38 Delete type=2 #413
 2026/05/14-20:51:57.448935 7faf89620b38 Delete type=0 #420
+2026/05/14-21:13:48.183771 7fad82c78b38 Level-0 table #447: started
+2026/05/14-21:13:48.183793 7fad82c78b38 Level-0 table #447: 0 bytes OK
+2026/05/14-21:13:48.188574 7fad82c78b38 Delete type=0 #445
+2026/05/14-21:13:48.188637 7fad82c78b38 Manual compaction at level-0 from '!folders!00bsOvhcU1zHs6li' @ 72057594037927935 : 1 .. '!items!zIoLd1AYVTT436DY' @ 0 : 0; will stop at (end)
